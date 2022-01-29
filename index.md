@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## [Lets Get Started with EC2](https://www.youtube.com/watch?v=8TlukLu11Yo)
+## [The Wide world of Internet of Things](https://www.youtube.com/watch?v=8TlukLu11Yo)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
