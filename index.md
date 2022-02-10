@@ -48,7 +48,7 @@ Another big trend in the smart home is the prevalence of security devices like v
 “There were even a few surprises like Eufy’s video doorbell that has two separate cameras and a door lock with facial recognition from U-tec Group,” Kozak said.
 
 
-### I hope this was useful to how to setup Apache Server and being expose to more Linux
+### I hope this was useful as IoT get deeper and deeper in our lifes.
 
 
 ```
