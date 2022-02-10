@@ -25,8 +25,6 @@ According to Omdia, the convergence of AI and edge computing is set to drive IoT
 
 First, ambient AI algorithms extract IoT sensor data without using audio or video as reference points. Due to reduced latency at the edge, these algorithms can seek granular judgments from noisy data avalanches that would otherwise stagnate in storage.
 
-Meanwhile, low-cost computer vision and natural language processing will bring video and audio IoT capabilities to more enterprises, helping detect wake words or sounds of distress in lone worker scenarios, for instance, or identifying broken goods before they leave the factory floor.
-
 ![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
 
 ## 5G to Make Headway
