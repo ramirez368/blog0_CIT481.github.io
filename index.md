@@ -7,7 +7,7 @@ layout: default
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# The Future of IoT: Top Trends We Expect to See in 2022
+## The Future of IoT: Top Trends We Expect to See in 2022
 
 Intelligent connectivity proliferated in 2021 as COVID-19 throttled traditional working environments and demanded enterprises find new ways to maintain productivity. 
 
