@@ -7,7 +7,8 @@ layout: default
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## The Future of IoT: Top Trends We Expect to See in 2022
+## The Future of IoT: 
+## Top Trends We Expect to See in 2022
 
 Intelligent connectivity proliferated in 2021 as COVID-19 throttled traditional working environments and demanded enterprises find new ways to maintain productivity. 
 
@@ -18,8 +19,6 @@ Many of the drivers behind this change existed last year. Artificial intelligenc
 But products take time to deliver and implement. Some impressive IoT last year came from big companies trying out new things. The private 5G nodes deployed for smart driver notifications and connected safety in underground mines were notable examples.
 
 As we enter 2022 more of these concepts will expand.
-
-
 
 
 ## More IoT Stakeholders Will Adopt AI/ML 
@@ -36,21 +35,15 @@ Meanwhile, low-cost computer vision and natural language processing will bring v
 
 According to Gartner, 5G is predominantly employed for consumer use cases at present, but that’s set to change over the next two years. This is because it strengthens key IoT operations like cameras and asset sensors, by making them more reliable. The U.S. is also one of a handful of countries developing 5G on mmWave frequencies though connections are sparse at present. The approach is set to strengthen 5G connectivity for massive machine-type communications where data production, exchange and implementation is handled by vast IoT fleets, with minimal human involvement. But mmWave 5G’s benefits will take a while to actuate, according to Gartner, which predicts it won’t reach maturity until 2025.
 
+![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
+
 ## Enterprises Seek to Eliminate Latency From IoT Networks
 
 The trends above will be especially beneficial for enterprises looking to implement real-time applications. In use cases ranging from live predictive maintenance to venue management and safety, the value of IoT extends by reducing limitations associated with cloud data relays.  
 
 Almost three in 10 (29%) of enterprise decision-makers cite the need for low-latency networks to support real-time applications as one of their three biggest concerns, according to an ESG Global survey. Moreover, the acceleration of edge computing technologies and next-generation connectivity means enterprises that nail implementation will possess more disruptive potential. Gartner recommends product leaders responsible for IoT should accelerate the adoption of edge and AI-enabled solutions, with a view of creating a long-term technology roadmap.
 
-## Hands-Free, Secure Edge Protocols to Turbocharge Medical Things and the Smart Home
 
-Medical technology retailers can expect hands-free IoT product offerings that use edge computing and advanced sensor techniques like radar to monitor chronic health issues. According to Blake Kozak, Omdia senior principal analyst for the smart home, some of these applications could be controversial due to privacy concerns related to handling sensitive medical data.
-
-Processing more information at the edge could help circumvent this, as long as device makers design the endpoint’s protocols to be watertight.
-
-Away from medical devices, hands-free operation is set to enhance a whole range of smart home technologies as vendors look to actuate “more holistic” use cases, Kozak said. At CES 2022, key highlights included a self-filling bathtub from Kohler and a hands-free microwave cooker from Panasonic.
-
-“The smart home right now is like the inverse of the iceberg analogy, there’s a lot above the surface with not much happening below the waterline,” Kozak told IoT World Today, “CES 2022 provided a glimpse of what is happening below the surface, meaning some brands are looking to go beyond hardware and focus on the additional value that can come from smart home devices.”
 
 ## Consumer to Embrace Smart Security Devices
 
@@ -62,15 +55,7 @@ Another big trend in the smart home is the prevalence of security devices like v
 
 A wild card in the pack is the Matter interoperability standard for smart home devices slated to launch later this year. Following Matter’s launch, consumers will no longer need to figure out whether a certain lightbulb and sensor play nicely together as it will link up many devices in the ecosystem automatically. It’s easy to see the potential for smart office environments that may use some of the same technologies.
 
-![ ](https://i1.wp.com/cloudkatha.com/wp-content/uploads/2021/08/AWS-EC2-Instance-Purchasing-Options-All-You-Need-to-Know-Featured.png?w=1023&ssl=1)
 
-## 
-
-## 
-
-## 
-
-## 
 
 
 
