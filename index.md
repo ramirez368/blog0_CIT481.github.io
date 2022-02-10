@@ -16,8 +16,6 @@ Now, with around 60% expressing increased confidence in IoT’s ability to gener
 
 Many of the drivers behind this change existed last year. Artificial intelligence models like TinyML were already in ascendancy. Edge computing architectures can effortlessly sync up factory, retail and venue IoT networks to the cloud, while connectivity protocols ranging from 5G to LoRAWAN and NB-IoT give enterprises a full range of options.
 
-But products take time to deliver and implement. Some impressive IoT last year came from big companies trying out new things. The private 5G nodes deployed for smart driver notifications and connected safety in underground mines were notable examples.
-
 As we enter 2022 more of these concepts will expand.
 
 
