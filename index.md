@@ -43,20 +43,13 @@ The trends above will be especially beneficial for enterprises looking to implem
 
 Almost three in 10 (29%) of enterprise decision-makers cite the need for low-latency networks to support real-time applications as one of their three biggest concerns, according to an ESG Global survey. Moreover, the acceleration of edge computing technologies and next-generation connectivity means enterprises that nail implementation will possess more disruptive potential. Gartner recommends product leaders responsible for IoT should accelerate the adoption of edge and AI-enabled solutions, with a view of creating a long-term technology roadmap.
 
-
+![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
 
 ## Consumer to Embrace Smart Security Devices
 
 Another big trend in the smart home is the prevalence of security devices like video doorbells and smart camera systems. Kozak says CES was chock-full of such product briefings this year, with examples including Belkin’s Secure Video doorbell and Eve’s outdoor camera with integrated floodlights. 
 
 “There were even a few surprises like Eufy’s video doorbell that has two separate cameras and a door lock with facial recognition from U-tec Group,” Kozak said.
-
-## Interoperability at Home and in the Office
-
-A wild card in the pack is the Matter interoperability standard for smart home devices slated to launch later this year. Following Matter’s launch, consumers will no longer need to figure out whether a certain lightbulb and sensor play nicely together as it will link up many devices in the ecosystem automatically. It’s easy to see the potential for smart office environments that may use some of the same technologies.
-
-
-
 
 
 ### I hope this was useful to how to setup Apache Server and being expose to more Linux
